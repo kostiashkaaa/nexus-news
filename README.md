@@ -33,7 +33,7 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                     FAP News Bot                            │
+│                     Nexus News Bot                            │
 ├─────────────────────────────────────────────────────────────┤
 │                                                             │
 │  ┌─────────┐  ┌─────────┐  ┌─────────┐  ┌─────────────────┐ │
@@ -135,7 +135,7 @@ python run_all.py
 ## 📦 Project Structure
 
 ```
-fap-news/
+nexus-news/
 ├── bot.py                    # Main news bot
 ├── admin_bot.py              # Admin panel bot
 ├── parser.py                 # RSS/HTML parsing
