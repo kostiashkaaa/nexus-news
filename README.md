@@ -1,4 +1,4 @@
-# 📰 FAP News Bot
+# 📰 Nexus News Bot
 
 <div align="center">
 
